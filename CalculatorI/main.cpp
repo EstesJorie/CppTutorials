@@ -4,8 +4,8 @@ using namespace std;
 int main() {
 
   cout << "Enter two numbers: ";
-  int val1;
-  int val2;
+  float val1;
+  float val2;
   cin >> val1 >> val2;
 
   cout << "1 - Addition" << endl

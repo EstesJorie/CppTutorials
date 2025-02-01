@@ -1,0 +1,3 @@
+D:/C++ TUTORIALS/NestedLoops/cmake-build-debug/CMakeFiles/NestedLoops.dir
+D:/C++ TUTORIALS/NestedLoops/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++ TUTORIALS/NestedLoops/cmake-build-debug/CMakeFiles/rebuild_cache.dir
