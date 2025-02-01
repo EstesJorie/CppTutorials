@@ -1,0 +1,3 @@
+D:/C++ TUTORIALS/SwtichStatement/cmake-build-debug/CMakeFiles/SwtichStatement.dir
+D:/C++ TUTORIALS/SwtichStatement/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++ TUTORIALS/SwtichStatement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
