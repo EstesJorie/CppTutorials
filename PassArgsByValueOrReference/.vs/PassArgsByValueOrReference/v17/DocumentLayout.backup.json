@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B TUTORIALS\\PassArgsByValueOrReference\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC7F78-AD4E-4B2C-A73C-31F393C4F23F}|PassArgsByValueOrReference\\PassArgsByValueOrReference.vcxproj|D:\\C\u002B\u002B TUTORIALS\\PassArgsByValueOrReference\\PassArgsByValueOrReference\\PassArgsByValueOrReference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38EC7F78-AD4E-4B2C-A73C-31F393C4F23F}|PassArgsByValueOrReference\\PassArgsByValueOrReference.vcxproj|solutionrelative:PassArgsByValueOrReference\\PassArgsByValueOrReference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PassArgsByValueOrReference.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B TUTORIALS\\PassArgsByValueOrReference\\PassArgsByValueOrReference\\PassArgsByValueOrReference.cpp",
+              "RelativeDocumentMoniker": "PassArgsByValueOrReference\\PassArgsByValueOrReference.cpp",
+              "ToolTip": "D:\\C\u002B\u002B TUTORIALS\\PassArgsByValueOrReference\\PassArgsByValueOrReference\\PassArgsByValueOrReference.cpp*",
+              "RelativeToolTip": "PassArgsByValueOrReference\\PassArgsByValueOrReference.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-02T22:26:43.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
