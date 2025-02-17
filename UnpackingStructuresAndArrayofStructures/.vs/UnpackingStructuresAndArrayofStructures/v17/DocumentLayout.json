@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B TUTORIALS\\UnpackingStructuresAndArrayofStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64C82A43-F28B-45C7-8356-049EBEFDE132}|UnpackingStructuresAndArrayofStructures\\UnpackingStructuresAndArrayofStructures.vcxproj|D:\\C\u002B\u002B TUTORIALS\\UnpackingStructuresAndArrayofStructures\\UnpackingStructuresAndArrayofStructures\\UnpackingStructuresAndArrayofStructures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64C82A43-F28B-45C7-8356-049EBEFDE132}|UnpackingStructuresAndArrayofStructures\\UnpackingStructuresAndArrayofStructures.vcxproj|solutionrelative:UnpackingStructuresAndArrayofStructures\\UnpackingStructuresAndArrayofStructures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnpackingStructuresAndArrayofStructures.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B TUTORIALS\\UnpackingStructuresAndArrayofStructures\\UnpackingStructuresAndArrayofStructures\\UnpackingStructuresAndArrayofStructures.cpp",
+              "RelativeDocumentMoniker": "UnpackingStructuresAndArrayofStructures\\UnpackingStructuresAndArrayofStructures.cpp",
+              "ToolTip": "D:\\C\u002B\u002B TUTORIALS\\UnpackingStructuresAndArrayofStructures\\UnpackingStructuresAndArrayofStructures\\UnpackingStructuresAndArrayofStructures.cpp",
+              "RelativeToolTip": "UnpackingStructuresAndArrayofStructures\\UnpackingStructuresAndArrayofStructures.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T22:24:56.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
