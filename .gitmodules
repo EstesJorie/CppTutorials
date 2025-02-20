@@ -1,0 +1,3 @@
+[submodule "GameOfLifeA"]
+	path = GameOfLifeA
+	url = https://github.com/EstesJorie/ASCII-Game-of-Life.git
