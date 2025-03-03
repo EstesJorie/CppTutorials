@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B TUTORIALS\\WorkingWithMethods\u0026OperatorOverloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2A61E1-BF70-4C97-BD63-2A4B3C14799A}|WorkingWithMethods\\WorkingWithMethods.vcxproj|D:\\C\u002B\u002B TUTORIALS\\WorkingWithMethods\u0026OperatorOverloading\\WorkingWithMethods\\WorkingWithMethods.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF2A61E1-BF70-4C97-BD63-2A4B3C14799A}|WorkingWithMethods\\WorkingWithMethods.vcxproj|solutionrelative:WorkingWithMethods\\WorkingWithMethods.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkingWithMethods.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B TUTORIALS\\WorkingWithMethods\u0026OperatorOverloading\\WorkingWithMethods\\WorkingWithMethods.cpp",
+              "RelativeDocumentMoniker": "WorkingWithMethods\\WorkingWithMethods.cpp",
+              "ToolTip": "D:\\C\u002B\u002B TUTORIALS\\WorkingWithMethods\u0026OperatorOverloading\\WorkingWithMethods\\WorkingWithMethods.cpp",
+              "RelativeToolTip": "WorkingWithMethods\\WorkingWithMethods.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T21:59:22.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
