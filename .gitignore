@@ -19,6 +19,7 @@ dist-ssr
 *.ntvs*
 *.njsproj
 *.sw?
+.vs/*
 
 ._ConditionalOperator
 ._NestedIfStatements
