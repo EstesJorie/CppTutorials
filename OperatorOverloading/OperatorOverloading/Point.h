@@ -15,6 +15,9 @@ public:
 
 	bool operator==(const Point& other) const;
 
+	Point& operator++(); //prefix form (++int)
+	Point operator++(int); //postfix form (int++)
+
 private:
 	int x;
 	int y;

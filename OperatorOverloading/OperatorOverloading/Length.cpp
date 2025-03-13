@@ -55,6 +55,19 @@ Length& Length::operator=(const Length& other)
 	return *this;
 }
 
+Length& Length::operator++()
+{
+	value++;
+	return *this;
+}
+
+Length Length::operator++(int)
+{
+	Length copy = *this;
+	operator++();
+	return copy;
+}
+
 
 /*bool Length::operator<(const Length& otherVal) const
 {
@@ -91,5 +104,4 @@ std::istream& operator>>(std::istream& stream, Length& length)
 	stream >> tempVal;
 	length.setValue(tempVal);
 	return stream;
-
 }

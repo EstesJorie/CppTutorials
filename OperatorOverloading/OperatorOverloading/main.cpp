@@ -20,8 +20,8 @@ int main()
 	Point firstP{ 10, 20 };
 	Point secondP{ 10, 20 };
 
-	cout << (firstP == secondP);
-	cout << firstP;
+	cout << (firstP == secondP) << "\n";
+	cout << firstP << "\n";
 
 	int x = 10;
 	int y = 20;
@@ -35,5 +35,4 @@ int main()
 	{
 	}
 	else{}
-
 }
