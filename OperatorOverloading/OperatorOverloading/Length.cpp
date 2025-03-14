@@ -6,7 +6,7 @@ Length::Length(int value) : value(value)
 {
 }
 
-int Length::getValue() const
+inline int Length::getValue() const
 {
 	return value;
 }
@@ -66,6 +66,11 @@ Length Length::operator++(int)
 	Length copy = *this;
 	operator++();
 	return copy;
+}
+
+Length::operator int() const
+{
+	return value;
 }
 
 

@@ -26,8 +26,15 @@ public:
 	Length& operator=(const Length& other);
 	Length& operator++(); //prefix form (++int)
 	Length operator++(int); //postfix form (int++)
+	operator int() const;
 
 	int getValue() const;
+
+	/*int getValue() const
+	{
+		return value;
+	}*/ //in-line function
+
 	void setValue(int value);
 
 private:
