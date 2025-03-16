@@ -6,8 +6,8 @@
 class TextBox : public Widget
 {
 public:
-	TextBox() = default;
-	explicit TextBox(const std::string& value);
+	void draw() const override final;
+	~TextBox() override;
 	std::string getValue();
 	void setValue(const std::string& value);
 

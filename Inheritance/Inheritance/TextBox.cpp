@@ -3,7 +3,13 @@
 #include <iostream>
 #include<string>
 
-TextBox::TextBox(const std::string& value) : value{value}
+
+void TextBox::draw() const
+{
+	std::cout << "Drawing a Textbox\n";
+}
+
+TextBox::~TextBox()
 {
 }
 
