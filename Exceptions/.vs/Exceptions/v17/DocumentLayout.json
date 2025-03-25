@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{303893F6-A0CD-44B1-BE51-8ECFF4B07BEA}|Exceptions\\Exceptions.vcxproj|solutionrelative:Exceptions\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{303893F6-A0CD-44B1-BE51-8ECFF4B07BEA}|Exceptions\\Exceptions.vcxproj|D:\\C\u002B\u002B TUTORIALS\\Exceptions\\Exceptions\\AccountLocked.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{303893F6-A0CD-44B1-BE51-8ECFF4B07BEA}|Exceptions\\Exceptions.vcxproj|solutionrelative:Exceptions\\AccountLocked.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303893F6-A0CD-44B1-BE51-8ECFF4B07BEA}|Exceptions\\Exceptions.vcxproj|D:\\C\u002B\u002B TUTORIALS\\Exceptions\\Exceptions\\AccountLocked.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{303893F6-A0CD-44B1-BE51-8ECFF4B07BEA}|Exceptions\\Exceptions.vcxproj|solutionrelative:Exceptions\\AccountLocked.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{303893F6-A0CD-44B1-BE51-8ECFF4B07BEA}|Exceptions\\Exceptions.vcxproj|D:\\C\u002B\u002B TUTORIALS\\Exceptions\\Exceptions\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{303893F6-A0CD-44B1-BE51-8ECFF4B07BEA}|Exceptions\\Exceptions.vcxproj|solutionrelative:Exceptions\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -22,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 50,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountLocked.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B TUTORIALS\\Exceptions\\Exceptions\\AccountLocked.cpp",
+              "RelativeDocumentMoniker": "Exceptions\\AccountLocked.cpp",
+              "ToolTip": "D:\\C\u002B\u002B TUTORIALS\\Exceptions\\Exceptions\\AccountLocked.cpp",
+              "RelativeToolTip": "Exceptions\\AccountLocked.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T16:13:37.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountLocked.h",
+              "DocumentMoniker": "D:\\C\u002B\u002B TUTORIALS\\Exceptions\\Exceptions\\AccountLocked.h",
+              "RelativeDocumentMoniker": "Exceptions\\AccountLocked.h",
+              "ToolTip": "D:\\C\u002B\u002B TUTORIALS\\Exceptions\\Exceptions\\AccountLocked.h",
+              "RelativeToolTip": "Exceptions\\AccountLocked.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-25T16:13:34.409Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,14 +66,14 @@
               "RelativeDocumentMoniker": "Exceptions\\main.cpp",
               "ToolTip": "D:\\C\u002B\u002B TUTORIALS\\Exceptions\\Exceptions\\main.cpp",
               "RelativeToolTip": "Exceptions\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAjwEgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-25T13:33:28.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Rectangle.h",
               "DocumentMoniker": "D:\\C\u002B\u002B TUTORIALS\\Exceptions\\Exceptions\\Rectangle.h",
               "RelativeDocumentMoniker": "Exceptions\\Rectangle.h",
@@ -47,18 +81,17 @@
               "RelativeToolTip": "Exceptions\\Rectangle.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-25T13:31:50.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T13:31:50.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Rectangle.cpp",
               "DocumentMoniker": "D:\\C\u002B\u002B TUTORIALS\\Exceptions\\Exceptions\\Rectangle.cpp",
               "RelativeDocumentMoniker": "Exceptions\\Rectangle.cpp",
               "ToolTip": "D:\\C\u002B\u002B TUTORIALS\\Exceptions\\Exceptions\\Rectangle.cpp",
               "RelativeToolTip": "Exceptions\\Rectangle.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-25T13:32:13.625Z",
               "EditorCaption": ""

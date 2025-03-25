@@ -27,9 +27,10 @@ void Rectangle::setWidth(int width)
 {
 	if (width < 0)
 		throw std::invalid_argument("Width cannot be negative");
-
 	/* m_width = width; */
 	this->width = width;
+	if(width>100)
+		throw std::out_of_range("Width cannot be greater than 100")
 }
 
 void Rectangle::setHeight(int height)

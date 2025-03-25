@@ -127,9 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="AccountLocked.h" />
     <ClInclude Include="Rectangle.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="AccountLocked.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Rectangle.cpp" />
   </ItemGroup>
